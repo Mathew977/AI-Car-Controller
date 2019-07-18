@@ -1,0 +1,12 @@
+Waypoint 1,30.1081,0
+Waypoint 2,30.6208,0.6
+Waypoint 3,31.40825,0.6
+Waypoint 4,32.07331,0.6
+Waypoint 5,32.69898,0.6
+Waypoint 6,29.7561,1
+Waypoint 1,25.68078,0.5
+Waypoint 2,26.41545,0.6
+Waypoint 3,26.72438,0.6
+Waypoint 4,26.59754,1
+Waypoint 5,26.53179,1
+Waypoint 6,24.09213,1
